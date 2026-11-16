@@ -141,8 +141,8 @@ GPL-3.0 License - 详见 [LICENSE](LICENSE) 文件
 **AntiOblivionis**
 - 🎮 QQ: 319641317
 - 📱 酷安: [@AntiOblivionis](http://www.coolapk.com/u/8158212)
-- 🐙 Github: [GoldenglowSusie](https://github.com/GoldenglowSusie/)
-- 📺 Bilibili: [罗德岛T0驭械术师澄闪](https://space.bilibili.com/407059627)
+- 🐙 Github: [AntiOblivionis](https://github.com/AntiOblivionis/)
+- 📺 Bilibili: [AntiOblivionis](https://space.bilibili.com/407059627)
 
 ## 🤖 AI协作开发
 
