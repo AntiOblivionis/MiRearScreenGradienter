@@ -7,8 +7,8 @@
 本项目采用 **GPL-3.0** 开源协议。
 
 **💬 交流与支持**
-- QQ交流群：**932738927** - [加入群聊](https://tgwgroup.ltd/2025/10/21/%e5%85%b3%e4%ba%8emrss%e4%ba%a4%e6%b5%81%e7%be%a4/)
-- 打赏支持：[请作者喝杯咖啡](https://tgwgroup.ltd/2025/10/19/%e5%85%b3%e4%ba%8e%e6%89%93%e8%b5%8f/) ☕
+- QQ交流群：**932738927** - [加入群聊](https://tgwgroup.ltd/2025/10/21/about-mrss-qq/)
+- 打赏支持：[请作者喝杯咖啡](https://tgwgroup.ltd/2025/10/19/support-me/) ☕
 
 ---
 
